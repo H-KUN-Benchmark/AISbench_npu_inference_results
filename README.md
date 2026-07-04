@@ -1,0 +1,1 @@
+# AISbench_npu_inference_results
