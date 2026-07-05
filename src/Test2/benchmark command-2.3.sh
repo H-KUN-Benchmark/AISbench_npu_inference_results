@@ -1,0 +1,1 @@
+python3 aisbench_test.py --input_len 256 --output_len 64 --data_num 10 --concurrency 1
