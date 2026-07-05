@@ -1,6 +1,8 @@
 *Test Environment*
+
 **Hardware Configuration List**
 *Atlas Server with specific configurations shown as below*
+
 | Hardware Configuration Items | Version Information |
 |------------------------------| --------------------|
 |AI Server| Atlas Server |
